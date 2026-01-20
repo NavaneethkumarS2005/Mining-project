@@ -20,6 +20,9 @@ This project contains multiple web pages that display mining-related content, im
 - CSS
 - JavaScript
 
+## Live Link
+http://mining-project-navaneethkumar-2005.s3-website.ap-south-1.amazonaws.com/ 
+
 ## Project Structure
 
 Mining-Problem-Forecast-System-And-Risk-Analyzer-main/
